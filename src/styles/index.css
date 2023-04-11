@@ -40,11 +40,6 @@ h2 {
   font-size: clamp(30px, 4vw, 50px);
 }
 
-/* main, section, footer {
-  border: 1px solid white;
-  width: 90%;
-  margin: 0 auto;
-} creates border */
 
 p {
   font-size: clamp(17px, 4vw, 23px);
